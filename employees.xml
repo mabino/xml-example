@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<employees>
+    <employee type="active">
+        <name>John Doe</name>
+        <age>30</age>
+        <salary>50000</salary>
+    </employee>
+    <employee type="inactive">
+        <name>Jane Smith</name>
+        <age>25</age>
+        <salary>45000</salary>
+    </employee>
+    <employee type="active">
+        <name>Bob Johnson</name>
+        <age>40</age>
+        <salary>60000</salary>
+    </employee>
+</employees>
